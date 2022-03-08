@@ -1,0 +1,66 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Noto+Serif+Display:wght@500&display=swap');
+
+html{
+    background: url(chest.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    backdrop-filter: blur(5px);
+}
+#heading{
+  
+    border-radius: 25px;
+    backdrop-filter: blur(5px);
+    
+}
+#xone{
+   
+    border-radius: 25px;
+    backdrop-filter: blur(5px);
+}
+#xtwo{
+    backdrop-filter: blur(5px);
+    
+    border-radius: 25px;
+}
+#xthree{
+    backdrop-filter: blur(5px);
+    
+    border-radius: 25px;
+}
+#xfour{
+    backdrop-filter: blur(5px);
+    
+    border-radius: 25px;
+}
+#xfive{
+    backdrop-filter: blur(5px);
+    
+    border-radius: 25px;
+}
+#xsix
+{
+    backdrop-filter: blur(5px);
+    
+    border-radius: 25px;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Akaya Telivigala', cursive;
+    font-family: 'Noto Serif Display', serif;
+}
+h2{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Akaya Telivigala', cursive;
+font-family: 'Noto Serif Display', serif;
+     
+}
+h3{
+    color: aliceblue;
+    font-family: 'Noto Serif Display', serif;
+    font-family: 'Akaya Telivigala', cursive;
+    font-family: 'Noto Serif Display', serif;}
